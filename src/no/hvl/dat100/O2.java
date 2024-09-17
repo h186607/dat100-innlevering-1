@@ -8,7 +8,7 @@ public class O2 {
 
 		Scanner input = new Scanner(System.in);
 
-		int antallStudenter = 3;
+		int antallStudenter = 10;
 		
 		for (int i = 0; i < antallStudenter; i++) {
 
